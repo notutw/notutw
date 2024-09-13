@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @notutw
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 😄 Pronouns: she/her
